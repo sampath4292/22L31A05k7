@@ -31,6 +31,9 @@
    ```
    The server will run on port 3000 by default.
 
+   <img width="1161" height="838" alt="Screenshot 2025-09-04 113126" src="https://github.com/user-attachments/assets/ce509bcb-7704-422a-b50e-c12d67974754" />
+   <img width="936" height="247" alt="Screenshot 2025-09-04 115154" src="https://github.com/user-attachments/assets/3df54eeb-6554-494a-b0fc-6acb89ad06f2" />
+
 ## API Endpoints
 
 ### Create Short URL
@@ -90,6 +93,4 @@
 - Data is stored in-memory and will be lost on server restart.
 - The code is modular and follows the required folder structure.
 
----
-**Author:** [Your Name]
-**Date:** September 4, 2025
+
